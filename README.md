@@ -7,17 +7,15 @@ BLOKK auto import.
 ## Install
 
 ```bash
-yarn add -D <%=name%>
-npm i -D <%=name%>
+yarn add -D postcss-blokk
+npm i -D postcss-blokk
 ```
-
-## Usage
 
 ```js
 postcss([blokk])
 ```
 
-## Example
+## Usage
 
 ### Input
 
