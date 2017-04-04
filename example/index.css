@@ -1,0 +1,9 @@
+@import url("https://blokkfont-losgordos.netdna-ssl.com/v2/blokkfont.css");
+
+body {
+  font-family: BLOKK;
+}
+
+.a {
+  font: 16px / 1.5 BLOKK;
+}
